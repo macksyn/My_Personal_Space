@@ -172,5 +172,11 @@
    "type": "autoreply",
    "url": "https://gist.githubusercontent.com/PikaBotz/a1ab93297ecbe208e3f49653a7b60927/raw/autowordreply.js",
    "desc": "Randomly tag members in a gc with matching word: nerd, gay, fuck etc... when autoreply enabled"
+  },
+  {
+   "name": "attendance.js",
+   "type": "attendance",
+   "url": "https://gist.githubusercontent.com/macksyn/51c42e3c6cd773f1a4ef7db2ee2dd251/raw/attendance.js",
+   "desc": "Mark member attendance"
   }
 ]
