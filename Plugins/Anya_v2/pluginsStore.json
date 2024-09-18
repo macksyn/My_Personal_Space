@@ -170,7 +170,7 @@
  {
    "name": "autowordreply.js",
    "type": "autoreply",
-   "url": "https://gist.githubusercontent.com/macksyn/5076f5a0bab8b535cff5427f3594cd6d/raw/5ff766771721e07f7b60622a33eceb9183992488/autowordreply.js",
+   "url": "https://gist.githubusercontent.com/macksyn/5076f5a0bab8b535cff5427f3594cd6d/raw/d8c3409d03dca148df70f0931830d7ca64f445bd/autowordreply.js",
    "desc": "Randomly tag members in a gc with matching word: nerd, gay, fuck etc... when autoreply enabled"
   },
   {
